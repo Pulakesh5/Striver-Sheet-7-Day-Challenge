@@ -2,6 +2,8 @@
 This is a great use of divide and conquer paradigm
 Recursively sort the array and before merging two sub-arrays
 check for any given condition and find the count
+https://leetcode.com/problems/reverse-pairs/discuss/97268/General-principles-behind-problems-similar-to-%22Reverse-Pairs%22
+
 
 */
 
